@@ -43,7 +43,7 @@
 }
 
 .nav-item .nav-link:hover {
-    background: greenyellow;
+    background: green;
     color: white;
 }
 
@@ -59,7 +59,7 @@
 .home {
     width: 100%;
     height: 90vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2)), url(./images/background\ img.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.2)), url(./images/hero.webp);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -86,7 +86,7 @@
 
 .changecontent::after {
     content: ' ';
-    color: greenyellow;
+    color: green;
     text-shadow: 0px 1px 1px black;
     animation: changetext 10s infinite linear;
 }
@@ -162,7 +162,7 @@
 }
 
 .home .content a:hover {
-    background: greenyellow;
+    background: green;
     color: white;
 }
 
@@ -201,7 +201,7 @@
 }
 
 .main-text h1 span {
-    color: greenyellow;
+    color: green;
 }
 
 .book .card {
@@ -235,7 +235,7 @@
     width: 160px;
     font-size: 16px;
     font-weight: 550;
-    background: greenyellow;
+    background: green;
     color: white;
     margin-top: 10px;
     transition: 0.5s;
@@ -270,7 +270,7 @@
 }
 
 .main-txt h1 span {
-    color: greenyellow;
+    color: green;
 }
 
 .packages .card {
@@ -297,7 +297,7 @@
 }
 
 .checked {
-    color: greenyellow;
+    color: green;
 }
 
 .star i {
@@ -311,7 +311,7 @@
 .packages .card .card-body a {
     padding: 10px;
     text-decoration: none;
-    background: greenyellow;
+    background: green;
     color: white;
     border-radius: 5px;
 }
@@ -336,7 +336,7 @@
 .services .card i {
     font-size: 80px;
     text-align: center;
-    color: greenyellow;
+    color: green;
     margin-top: 20px;
 }
 
@@ -408,7 +408,7 @@
     height: 38px;
     border: none;
     border-radius: 5px;
-    background: greenyellow;
+    background: green;
     color: white;
     letter-spacing: 2px;
     font-weight: 550;
@@ -446,7 +446,7 @@
 }
 
 #footer h1 span {
-    color: greenyellow;
+    color: green;
 }
 
 .social-links i {
@@ -462,7 +462,7 @@
 }
 
 .social-links i:hover {
-    background: greenyellow;
+    background: green;
 }
 
 /* Footer End */
